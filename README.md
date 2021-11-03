@@ -1,6 +1,12 @@
+#Welcome!
+
+
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Vue.js,JavaScript)](https://github.com/ouroboros-t)
 
+<!---
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Vue.js,Java)](https://github.com/ouroboros-t)
+--->
+
 
 
 <!---
