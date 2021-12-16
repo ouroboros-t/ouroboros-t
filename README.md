@@ -1,7 +1,7 @@
 
 
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Vue.js,PostgrSQL)](https://github.com/ouroboros-t)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Vue.js,PostgreSQL)](https://github.com/ouroboros-t)
 
 <!---
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Vue.js,Java)](https://github.com/ouroboros-t)
