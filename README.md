@@ -1,7 +1,9 @@
+## Who Am **I**?
 
+Hi! I'm Tay! I'm a developer in the 'Droid space! I've been developing for Android apps since 2k22 and I've been in love with it since Day 0. When I'm not developing, I'm discovering new coffee flavors to try, new RPGs/TTRPGs to try, and debugging why I can't seem to figure out how to do a cross-stitch. My goals for 2k25 is to develop and publish my own app, taking what I've learned and recreating a previous project.
 
-
-I am a developer currently working in the Android space. I love solving problems that keep the user at the center of the conversation when developing new and exciting features. I love making Android apps, even tiny ones that do simple things to reinforce what I've learned. I hope to one day be able to publish apps of my own.
+## Where to find **Me**?
+I like to keep my professional and personal development profiles separated (for now), but I am available on here and in many discord servers! (@spooningstars) 
 
 <!---
 [![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Vue.js,Java)](https://github.com/ouroboros-t)
